@@ -1,15 +1,41 @@
-# Hi there, I'm Ayush Pandey! 👋
+Hey, I'm Ayush Pandey 👋
 
-🌟 Welcome to my GitHub profile! 🌟
+Developer • Open-Source Builder • Tech Enthusiast
 
-I'm a passionate developer and tech enthusiast. Here, you'll find a mix of my personal projects, contributions, and maybe a few surprises. Feel free to explore and connect!
+I build tools, bots, and developer-focused projects with JavaScript, TypeScript, Python, and Node.js. I enjoy turning ideas into working software and learning by building.
 
-## 🔧 Technologies & Tools
-- Languages: Python, JavaScript
-- Frameworks: Flask, React
-- Tools: Git, VS Code, Docker
+- 🚀 Latest release: "Harspec on PyPI" (https://pypi.org/project/harspec/)
+- 🛠️ Currently building: Developer tools, automation, and WhatsApp bots
+- 💻 Tech I work with: TypeScript, JavaScript, Python, Node.js, Git
+- 🌱 Always learning: Better software design, APIs, and backend engineering
 
-## 📈 GitHub Stats
-[![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AYUSH-PANDEY023&show_icons=true&hide=contribs,prs)](https://github.com/AYUSH-PANDEY023)
+🚀 Featured Projects
 
-Let's code something amazing together! 💻✨
+"Harspec" (https://github.com/AYUSH-PANDEY023/harspec)
+
+Convert browser HAR captures into OpenAPI specifications, Python and TypeScript clients, Postman collections, and curl examples.
+
+📦 "Install from PyPI" (https://pypi.org/project/harspec/)
+
+Maria-MD
+
+A WhatsApp bot project featuring interactive commands, games, and Pokémon/card systems.
+
+🧰 Tech Stack
+
+"JavaScript" · "TypeScript" · "Python" · "Node.js" · "Git" · "Docker"
+
+📊 GitHub Stats
+
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=AYUSH-PANDEY023&show_icons=true&hide_border=true&theme=github_dark)
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSH-PANDEY023&layout=compact&hide_border=true&theme=github_dark)
+
+---
+
+🤝 Let's Connect
+
+- GitHub: "@AYUSH-PANDEY023" (https://github.com/AYUSH-PANDEY023)
+- PyPI: "harspec" (https://pypi.org/project/harspec/)
+
+Building, breaking, learning, and building again. 🚀
